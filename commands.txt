@@ -1,0 +1,1 @@
+python screenshot.py https://officeplates.com/products/office-nameplate -w 1920 --scroll --wait 500
